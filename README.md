@@ -26,9 +26,9 @@ Sou Desenvolvedor FullStack, formado em Ciência da Computação pela UFSJ, com 
 </div>
 
 #
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieel-Santos&theme=github_dark&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieel-Santos&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieel-Santos&show_icons=true&theme=github_dark) -->
 
 
 
